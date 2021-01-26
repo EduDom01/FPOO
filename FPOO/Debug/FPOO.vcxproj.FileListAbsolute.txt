@@ -1,0 +1,6 @@
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Debug\FPOO.vcxprojAssemblyReference.cache
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Debug\FPOO.Form1.resources
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Debug\FPOO.vcxproj.GenerateResource.cache
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Debug\FPOO.Punto.resources
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Debug\FPOO.Inventario.resources
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Debug\FPOO.Inicio.resources

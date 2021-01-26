@@ -1,0 +1,30 @@
+﻿  Conexion.cpp
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Conexion.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Conexion.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804250' para el encabezado precompilado pero no para la compilación actual
+  CppCLR_WinformsProjekt.cpp
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\CppCLR_WinformsProjekt.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\CppCLR_WinformsProjekt.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804250' para el encabezado precompilado pero no para la compilación actual
+  Form1.cpp
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Form1.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Form1.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804250' para el encabezado precompilado pero no para la compilación actual
+  Inicio.cpp
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Inicio.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Inicio.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804250' para el encabezado precompilado pero no para la compilación actual
+  Inventario.cpp
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Inventario.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Inventario.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804250' para el encabezado precompilado pero no para la compilación actual
+  Punto.cpp
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Punto.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Punto.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804250' para el encabezado precompilado pero no para la compilación actual
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Punto.cpp(10,45): warning C4965: conversión boxing implícita de entero 0; utilice nullptr o conversión explícita
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Punto.cpp(31,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\FPOO\Punto.cpp(34,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  FPOO.vcxproj -> C:\Users\ASUS F509F\Documents\Visual Studio 2019\FPOO\Debug\FPOO.exe

@@ -1,0 +1,5 @@
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\x64\Debug\FPOO.vcxprojAssemblyReference.cache
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\x64\Debug\FPOO.Form1.resources
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\x64\Debug\FPOO.Inventario.resources
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\x64\Debug\FPOO.Punto.resources
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\x64\Debug\FPOO.vcxproj.GenerateResource.cache

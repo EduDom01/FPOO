@@ -1,0 +1,11 @@
+﻿  Conexion.cpp
+  CppCLR_WinformsProjekt.cpp
+  Form1.cpp
+  Inventario.cpp
+  Punto.cpp
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\Punto.cpp(10,45): warning C4965: conversión boxing implícita de entero 0; utilice nullptr o conversión explícita
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\Punto.cpp(36,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Ing Aparicio\Downloads\FPOO\FPOO\Punto.cpp(39,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Articulo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  FPOO.vcxproj -> C:\Users\Ing Aparicio\Downloads\FPOO\x64\Debug\FPOO.exe
